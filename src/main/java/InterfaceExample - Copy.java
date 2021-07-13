@@ -2,6 +2,8 @@
 
     int division(int a,int b);
     double squareroot(int a);
-	String returnString(int a);
-	
-}	
+    int division(int a,int b,int c);
+    double squareroot(int a,int b);
+
+}
+
