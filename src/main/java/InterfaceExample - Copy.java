@@ -12,5 +12,8 @@ double akashMethod(int a,int b);
 
 
 void deepaMethod();
+
+
+void deepaOneMethod();
 }
 
